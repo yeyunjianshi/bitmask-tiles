@@ -12,3 +12,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+ul {
+  list-style: none;
+}
+
+h2 {
+  margin: 40px;
+  text-align: center;
+}
